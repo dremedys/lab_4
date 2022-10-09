@@ -1,0 +1,27 @@
+html {
+    background-color: #b8a8d2;
+}
+
+body {
+    width: 700px;
+    background-color: white;
+    border: 10px yellow solid;
+    padding: 16px;
+    margin: 0 auto;
+}
+
+
+hr {
+    width: 90%;
+    border: 1px solid #D8C858;
+}
+
+h1, h2 {
+    font-family: Georgia;
+    text-align: center;
+}
+
+input[type="submit"] {
+    font-size: 2em;
+    width: 100%;
+}
